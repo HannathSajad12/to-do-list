@@ -1,11 +1,10 @@
 # MERN To-Do List
 
-Assignment No. 2 — Web Technology (23CSB40B), S7 CSE, MBCET
+
 
 A full-stack To-Do List built with **MongoDB, Express.js, React.js and Node.js**.
 Users can add, view, edit, complete/uncomplete and delete tasks. The React frontend talks to an Express REST API, which stores data in MongoDB through Mongoose.
 
-**Name:** _your name_  **Roll No:** _your roll number_
 
 ## Project structure
 
